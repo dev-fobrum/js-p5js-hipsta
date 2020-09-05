@@ -2,6 +2,7 @@
 <div align="center">
     <img src="./screenshots/screenshot_1.png" width="700">
     <img src="./screenshots/screenshot_2.png" width="700">
+    <img src="./screenshots/screenshot_3.png" width="700">
 </div>
 
 ---
